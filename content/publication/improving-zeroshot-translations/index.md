@@ -49,6 +49,9 @@ tags = ["Deep Learning", "NLP", "NMT"]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
+
+[header]
+caption = "Best student paper award"
 +++
 
 ##### Best student paper award
