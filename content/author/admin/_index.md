@@ -13,19 +13,20 @@ role = "Student of Computer Science"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "University of Trento", url = "" } ]
+organizations = [ { name = "University of Trento", url = "https://www.disi.unitn.it/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include distributed robotics, mobile computing and programmable matter."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "lotitoqf@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
   "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Machine Learning",
+  "Approximation Algorithms",
+  "Graph Algorithms"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -66,7 +67,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.it/citations?user=_r_zQAwAAAAJ&hl=en"
 
 [[social]]
   icon = "github"
