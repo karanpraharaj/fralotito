@@ -38,7 +38,7 @@ user_groups = ["Researchers", "Visitors"]
 [[education.courses]]
   course = "MSc in Computer Science"
   institution = "University of Trento"
-  year = 2021 (expected)
+  year = 2021
 
 [[education.courses]]
   course = "BSc in Computer Science"
