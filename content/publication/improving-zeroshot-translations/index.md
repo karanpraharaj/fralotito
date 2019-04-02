@@ -31,7 +31,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = "files/poster_improving_zeroshot_translations.pdf"
+url_poster = ""
 url_source = ""
 
 # Summary. An optional shortened abstract.
