@@ -51,7 +51,7 @@ time_format = "15:04"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "lotitoqf@gmail.com"
-address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -62,6 +62,8 @@ contact_links = [
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
+
+address = "Trento, Italy"
 
 # Display a map.
 # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
