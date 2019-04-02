@@ -31,6 +31,22 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = "static/files/poster_improving_zeroshot_translations.pdf"
+url_poster = "files/poster_improving_zeroshot_translations.pdf"
 url_source = ""
+
+# Summary. An optional shortened abstract.
+summary = ""
+
+# Digital Object Identifier (DOI)
+doi = ""
+
+# Is this a featured publication? (true/false)
+featured = false
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = ["Deep Learning", "NLP", "NMT"]
+
+# Does this page contain LaTeX math? (true/false)
+math = true
 +++
