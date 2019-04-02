@@ -1,6 +1,6 @@
 +++
 title = "FBK’s Multilingual Neural Machine Translation System for IWSLT 2017"
-date = 2017-12-14T00:00:00
+date = 2017-12
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Surafel M. Lakew", "Quintino F. Lotito", "Matteo Negri", "Marco Turchi", "Marcello Federico"]
