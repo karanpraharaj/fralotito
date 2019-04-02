@@ -31,6 +31,4 @@ doi = ""
 
 # Is this a featured publication? (true/false)
 featured = false
-
-
 +++
