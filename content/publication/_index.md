@@ -10,6 +10,12 @@ view = 4
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
-caption = ""
+  image = ""
+  caption = ""
+
+[advanced]
+  css_style = "input{ border: 1x solid black; border-radius: 5px; }"
+
 +++
+
+
