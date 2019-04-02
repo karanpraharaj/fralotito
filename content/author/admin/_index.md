@@ -56,14 +56,15 @@ user_groups = ["Researchers", "Visitors"]
   link = "mailto:lotitoqf@google.com"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
+  icon = "github"
+  icon_pack = "fab"
+  link = "https://github.com/FraLotito"
+
+[[social]]
   icon = "google-scholar"
   icon_pack = "ai"
   link = "https://scholar.google.it/citations?user=_r_zQAwAAAAJ&hl=en"
 
-[[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/FraLotito"
 
 # [[social]]
 #   icon = "twitter"
