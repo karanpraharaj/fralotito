@@ -3,7 +3,7 @@ title = "Improving Zero-Shot Translation of Low-Resource Languages"
 date = 2017-12-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Surafel M. Lakew", "Quintino F. Lotito", "Matteo Negri", "Marco Turchi", "Marcello Federico"]
+authors = ["Surafel M Lakew", "Quintino F Lotito", "Matteo Negri", "Marco Turchi", "Marcello Federico"]
 
 # Publication type.
 # Legend:
@@ -53,14 +53,14 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = "http://arxiv.org/pdf/1512.04133v1"
+url_pdf = "https://arxiv.org/pdf/1811.01389.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = ""
+url_poster = "static/files/poster_improving_zeroshot_translations.pdf"
 url_source = ""
 
 # Custom links (optional).
