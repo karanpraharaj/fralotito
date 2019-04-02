@@ -12,10 +12,6 @@ view = 4
 [header]
   image = ""
   caption = ""
-
-[advanced]
-  css_style = "input{ border: 1x solid black; border-radius: 5px; }"
-
 +++
 
 
