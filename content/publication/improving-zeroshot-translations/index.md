@@ -51,4 +51,4 @@ tags = ["Deep Learning", "NLP", "NMT"]
 math = true
 +++
 
-**Best student paper award**
+<i class="fas fa-trophy"></i> <b>Best student paper award</b>
