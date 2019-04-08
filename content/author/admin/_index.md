@@ -16,7 +16,7 @@ role = "Student of Computer Science"
 organizations = [ { name = "University of Trento", url = "https://www.disi.unitn.it/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "Student of CS @ University of Trento interested in Artificial Intelligence."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "lotitoqf@gmail.com"
