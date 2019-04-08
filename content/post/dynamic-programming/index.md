@@ -1,9 +1,9 @@
 +++
-title = "Dynamic Programming"
-subtitle = "Notes on dynamic programming for algorithmic competitions"
+title = "Introduction to dynamic programming"
+subtitle = "Those who cannot remember the past are condemned to repeat it"
 
 # Add a summary to display on homepage (optional).
-summary = "Notes on dynamic programming for algorithmic competitions"
+summary = "The idea is very simple, if you have solved a problem with the given input, then save the result for future reference, so as to avoid solving the same problem again.. shortly 'Remember your Past'"
 
 date = 2019-04-08T13:21:02+02:00
 draft = false
@@ -16,7 +16,7 @@ featured = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Algorithms", "Competitive programming"]
+tags = ["Algorithms"]
 categories = []
 
 # Projects (optional).
