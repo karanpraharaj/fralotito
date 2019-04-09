@@ -1,9 +1,9 @@
 +++
-title = "Introduction to dynamic programming"
-subtitle = "Those who cannot remember the past are condemned to repeat it"
+title = "Dynamic Programming"
+subtitle = ""
 
 # Add a summary to display on homepage (optional).
-summary = "Dynamic programming is just a fancy way to say 'remembering stuff to save time later'"
+summary = "What is DP? It's just a fancy way to say 'remembering stuff to save time later'"
 
 date = 2019-04-08T13:21:02+02:00
 draft = false
