@@ -3,7 +3,7 @@ title = "Introduction to dynamic programming"
 subtitle = "Those who cannot remember the past are condemned to repeat it"
 
 # Add a summary to display on homepage (optional).
-summary = "The idea is very simple, if you have solved a problem with the given input, then save the result for future reference, so as to avoid solving the same problem again.. shortly 'Remember your Past'"
+summary = "Dynamic programming is just a fancy way to say 'remembering stuff to save time later'"
 
 date = 2019-04-08T13:21:02+02:00
 draft = false
