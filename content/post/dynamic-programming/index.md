@@ -8,7 +8,7 @@ math = true
 summary = "Just some random notes about Dynamic Programming"
 
 date = 2019-04-08T13:21:02+02:00
-draft = true
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
@@ -96,7 +96,7 @@ $
   \end{cases}
 \normalsize
 $
-###### Recursion with memoization (or top-down)
+###### Recursion with memoization (or top-down approach)
 
 ```cpp
 int solve(int i) {
@@ -112,3 +112,17 @@ Initially $dp[i] = -1$ with $1 \leq i \leq N$, $solve(N)$ will give you the solu
 The complexity of this approach is linear in $N$, without memoization it's exponential.
 
 ### A bottom-up approach
+You can also think of dynamic programming as a "table-filling" algorithm. 
+
+Once we formulate the solution to a problem recursively as in terms of its sub-problems, we can try reformulating the problem in a bottom-up fashion: try solving the sub-problems first and use their solutions to build-on and arrive at solutions to bigger sub-problems. This is also usually done in a tabular form by iteratively generating solutions to bigger and bigger sub-problems by using the solutions to small sub-problems.
+
+###### Bottom-up solution to Frog1
+```cpp
+for(int i = 1; i <= N; i++) {
+    if(i == 1) dp[i] = 0;
+    if(i == 2) dp[i] = abs(v[i] - v[i-1]);
+    else dp[i] = min(abs(v[i] - v[i-1]) + dp[i-1], abs(v[i] - v[i-2]) + dp[i-2]);
+}
+```
+
+You will find the solution in $dp[N]$.
