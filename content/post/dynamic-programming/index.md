@@ -126,3 +126,10 @@ for(int i = 1; i <= N; i++) {
 ```
 
 You will find the solution in $dp[N]$.
+
+### Top-down vs Bottom-up
+* Memoization is really easy to code once you have your recursive solution, it's just a matter of using a map or a (multidimensional) table to store your computations. This should be your first approach.
+* With memoization if the tree of the recursion is very deep you can run out of stack space.
+* Usually when you need to compute a lot of different sub-problems a bottom-up solution is faster because you don't have the overhead caused by the recursion. 
+* While with a top-down approach you solve exactly what you need, with a bottom-up approach sometimes you will solve a lot of useless sub-problems.
+* With a bottom-up approach you have much more flexibility and space for optimizations rather than with a top-down approach
