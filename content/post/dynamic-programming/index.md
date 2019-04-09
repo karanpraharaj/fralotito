@@ -8,7 +8,7 @@ math = true
 summary = "Just some random notes about Dynamic Programming"
 
 date = 2019-04-08T13:21:02+02:00
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
