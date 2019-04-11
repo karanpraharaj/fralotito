@@ -92,7 +92,7 @@ $
   f(i)=\begin{cases}
     0, & \text{if $i=1$} \newline
     |h[i| - h[i-1]|, & \text{if $i=2$} \newline
-    min(|h[i| - h[i-1]| + f(i-1), |h[i| - h[i-2]| + f(i-2)), & \text{if $i>2$}
+    min(|h[i| - h[i-1]| + f(i-1), |h[i| - h[i-2]| + f(i-2)), & \text{if $i\geq3$}
   \end{cases}
 \normalsize
 $

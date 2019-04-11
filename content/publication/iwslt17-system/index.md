@@ -45,7 +45,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Deep Learning", "NLP", "NMT"]
+tags = ["Deep Learning", "Natural Language Processing", "Neural Machine Translation"]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
