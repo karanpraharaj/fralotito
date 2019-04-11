@@ -1,11 +1,11 @@
 +++
-title = "Dynamic Programming"
+title = "Introduction to dynamic programming"
 subtitle = ""
 
 math = true
 
 # Add a summary to display on homepage (optional).
-summary = "Just some random notes about Dynamic Programming"
+summary = "Some notes about DP"
 
 date = 2019-04-08T13:21:02+02:00
 draft = false
@@ -43,7 +43,7 @@ categories = []
 ### Introduction
 The topic of *dynamic programming* sounds really fancy and obscure but it's not a big deal afterall :)
 
-DP problems usually appear in your favourite course on Algorithms and Data Structure, in Algorithmic Competitions or in Technical Interviews, but it also has lots of real life applications, we will see some of them at the end of this blog post.
+DP problems usually appear in your favourite course on Algorithms and Data Structure, in Algorithmic Competitions or in Technical Interviews, but DP has also a lot of real life applications, we will see some of them by the end of this blog post.
 
 ### What is DP?
 We first need to introduce the concept of *divide-and-conquer*.
