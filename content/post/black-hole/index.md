@@ -84,7 +84,7 @@ If we wanted to take the image of a black hole with a traditional single-dish te
 
 The EHT is composed of many radio telescope facilities around the world to produce a high-sensitivity, high-angular-resolution telescope. Through the technique of very-long-baseline interferometry (VLBI), many independent radio antennas separated by hundreds or thousands of miles can be used together to create a virtual telescope with an effective diameter of the entire planet.
 
-VLBI alleviates the need for building an impossibly large single-dish telescope by simultaneously observing a common source from an array of telescopes distributed around the Earth. This would be a prohibitively small number of measurements to make an image from, however, as the Earth rotates, the projected baselines change, and we observe new measurements.
+VLBI alleviates the need for building an impossibly large single-dish telescope by simultaneously observing a common source from an array of telescopes distributed around the Earth. This would be a prohibitively small number of measurements to make an image from, however, as the Earth rotates, the "point of view" change, and we observe new measurements.
 
 <img src="rotate.png" alt="rotate.png"/>
 
@@ -100,9 +100,9 @@ priors) is an imaging method developed specifically to handle the challenges fac
 
 But how do we handle missing data?
 
-Let's pretend you have different sets of images, each set from a different domain (a set of images of animals, a set of images of food, a set of images of simulations of black holes, ..). You can take each set and cut every image into a lot of different pieces, like a puzzle. Now, you can try to take commonly used pieces from a set and use them to fill the gap in the picture of your black hole, of course every time you need to choose a piece you should try to choose the one with the higher probability of beeing there based on the "nearest real measurements" you have. 
+Let's pretend you have different sets of images, each set from a different domain (a set of images of animals, a set of images of food, a set of images of simulations of black holes, ..). You can take each set and cut every image into a lot of different pieces, like a puzzle. Now, you can try to take commonly used pieces from a set and use them to fill the gap in the picture of your black hole, of course every time you need to choose a piece you should try to choose the one with the higher probability of being there based on the "nearest real measurements" you have. 
 
-The idea is that, based on the domain you use, you would get different kinds of reconstruction on your image. For example, if you choose the domain of "images of simulations of black holes" you should have a reconstruction of a black hole similar to what you originally expected. But, if the reconstructions obtained using every set of "puzzle pieces" are similar, then you can be pretty confident of your result.
+The idea is that, based on the domain you use, you get different kinds of reconstruction on your image. For example, if you choose the domain of "images of simulations of black holes" you should have a reconstruction of a black hole similar to what you originally expected, but it can be biased. If the reconstructions obtained using every set of "puzzle pieces" are similar, then you can be pretty confident of your result.
 
 <img src="puzzle.png" alt="puzzle.png"/>
 
@@ -113,7 +113,7 @@ In the experiment, to guarantee the accuracy of the final result, four different
 "I saw all the other teams had images that were very similar, with the lower half brighter than the top half. It was amazing to see everyone got that. That was the happiest moment I've ever had."
 
 ### Conclusion
-The most beautiful thing about moments like this is that more than 200 scientists from all over the world worked on the experiment. In some ways, these are the only moments in which humans really stand together, trying to pursue goals that seem impossible, and once again achieving it.
+The most beautiful thing about moments like this is that more than 200 scientists from all over the world worked on the experiment. In some ways, these are the only moments in which humans really stand together, trying to pursue goals that seem impossible, and, once again, achieving it.
 <img src="group.jpg" alt="group.jpg"/>
 
 ### References
