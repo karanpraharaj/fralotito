@@ -100,7 +100,7 @@ priors) is an imaging method developed specifically to handle the challenges fac
 
 But how do we handle missing data?
 
-Let's pretend you have different sets of images, each set from a different domain (a set of images of animals, a set of images of food, a set of images of simulations of black holes, ..). You can take each set and cut every image into a lot of different pieces, like a puzzle. Now, you can try to take commonly used pieces from a set and use them to fill the gap in the picture of your black hole, of course every time you need to choose a piece you should try to choose the one with the higher probability of being there based on the "nearest real measurements" you have. 
+Let's imagine you have different sets of images, each set from a different domain (a set of images of animals, a set of images of food, a set of images of simulations of black holes, ..). You can take each set and cut every image into a lot of different pieces, like a puzzle. Now, you can try to take commonly used pieces from a set and use them to fill the gap in the picture of your black hole, of course every time you need to choose a piece you should try to choose the one with the higher probability of being there. 
 
 The idea is that, based on the domain you use, you get different kinds of reconstruction on your image. For example, if you choose the domain of "images of simulations of black holes" you should have a reconstruction of a black hole similar to what you originally expected, but it can be biased. If the reconstructions obtained using every set of "puzzle pieces" are similar, then you can be pretty confident of your result.
 
