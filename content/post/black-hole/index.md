@@ -5,10 +5,10 @@ subtitle = ""
 math = true
 
 # Add a summary to display on homepage (optional).
-summary = "Summary of the work done to have the first-ever image of a black hole."
+summary = "Summary of the work done to have the first ever image of a black hole."
 
 date = 2019-04-11T15:11:18+02:00
-draft = true
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
