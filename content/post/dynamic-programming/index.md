@@ -5,7 +5,7 @@ subtitle = ""
 math = true
 
 # Add a summary to display on homepage (optional).
-summary = "Some notes about DP"
+summary = "Some notes about DP."
 
 date = 2019-04-08T13:21:02+02:00
 draft = false
