@@ -5,7 +5,7 @@ subtitle = ""
 math = true
 
 # Add a summary to display on homepage (optional).
-summary = "Brief summary of the work done to have the first ever image of a black hole"
+summary = "A brief summary of the work done to have the first ever image of a black hole"
 
 date = 2019-04-11T15:11:18+02:00
 draft = false
