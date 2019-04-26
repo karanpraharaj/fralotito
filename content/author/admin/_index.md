@@ -79,5 +79,10 @@ user_groups = ["Researchers", "Visitors"]
   link = "files/cv.pdf"
 
 +++
+I'm a student of Computer Science at University of Trento in Italy. I (hope) to graduate soon from my Bachelor's and start a Master's Degree program. 
 
-Under construction, I also feel too young to have a biography :(
+I like solving problems, playing with data, learning new things and sharing them with people (which is mainly the goal of my blog).
+
+I'm also the competitive programming coach of some unlucky guys at University and Liceo Galilei in Trento.
+
+<b>Currently I'm looking for a Summer Internship, so.. you know.. contact me :)</b>
