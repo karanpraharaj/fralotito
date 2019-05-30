@@ -81,8 +81,8 @@ user_groups = ["Researchers", "Visitors"]
 +++
 I'm a student of Computer Science at University of Trento in Italy. I (hope) to graduate soon from my Bachelor's and start a Master's Degree program. 
 
-I like solving problems, playing with data, learning new things and sharing them with people (which is mainly the goal of my blog).
-
 I'm also the competitive programming coach of some unlucky guys at University and Liceo Galilei in Trento.
 
-<b>Currently I'm looking for a Summer Internship, so.. you know.. contact me :)</b>
+#### Some news:
+
+* <p style="font-size: 16px;">This summer I'm joining the <a href="http://tev.fbk.eu/">Technology of Vision group</a> at Fondazione Bruno Kessler as a research intern!</p>
